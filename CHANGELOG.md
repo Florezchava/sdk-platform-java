@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.50.0](https://github.com/googleapis/sdk-platform-java/compare/v2.49.0...v2.50.0) (2024-11-04)
+
+
+### Features
+
+* Update Gapic-Generator to generate libraries using `java.time` methods ([#3321](https://github.com/googleapis/sdk-platform-java/issues/3321)) ([b21c9a4](https://github.com/googleapis/sdk-platform-java/commit/b21c9a42121c22a1ab229d2d485265c271305110))
+
+
+### Dependencies
+
+* update grpc dependencies to v1.68.1 ([#3240](https://github.com/googleapis/sdk-platform-java/issues/3240)) ([c8e3941](https://github.com/googleapis/sdk-platform-java/commit/c8e3941ef6f5bd1236f5ceedfd488e5113928471))
+
 ## [2.49.0](https://github.com/googleapis/sdk-platform-java/compare/v2.48.0...v2.49.0) (2024-10-25)
 
 
